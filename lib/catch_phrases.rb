@@ -9,4 +9,6 @@ def toadstool
 end
 
 def link
-  variable = "It's Dangerous to Go Alone"
+  variable = "It's Dangerous to Go Alone! Take This."
+  puts variable
+end
